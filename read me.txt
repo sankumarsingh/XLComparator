@@ -1,0 +1,6 @@
+This Excel comparator is designed to compare two spreadsheet of a single Excel file data.
+To use this follow the following set of steps.
+	1. Open the XLComparison.properties file in any text editor
+	2. Update the required values
+	3. Keep the file in FileForComparison directory.
+	4. Execute the XLComparator.exe

@@ -1,0 +1,14 @@
+Resources starts with r_
+	e.g. r_XLProperties
+
+Global Variable starts with g_
+	e.g. int g_RowNum
+	
+Local Variable starts with l_
+	e.g. int l_RowNum
+	
+Constants will be in Captial
+	e.g. int ROW_NUM
+
+Objects will start with o_
+	e.g. XLRead o_xlRead
